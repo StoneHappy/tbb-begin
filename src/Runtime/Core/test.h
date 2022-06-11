@@ -1,2 +1,5 @@
 #pragma once
-void test();
+#include <vector>
+int SumWithnoLock();
+
+int SumWithLock();
